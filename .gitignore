@@ -1,2 +1,6 @@
 ej7/
-lab/
+labNO/
+*.o
+memory_map.txt
+kernel8.*
+.gdb_history
